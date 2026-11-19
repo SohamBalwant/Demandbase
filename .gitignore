@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment variables (API keys, secrets)
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE & Agents
+.vscode/
+.idea/
+.agents/
+skills-lock.json
+
+# Build output
+dist/
+build/
+.next/
